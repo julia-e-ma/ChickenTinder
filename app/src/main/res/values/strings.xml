@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ChickenTinder</string>
+    <string name="button">Get Location</string>
 </resources>
