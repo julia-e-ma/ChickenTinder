@@ -11,5 +11,8 @@ Future features will include:
 - previous reviews of restaurants 
 
 
-App preview as of 1/24/24
+App preview as of 1/24/24: <br>
+The app can request to use location services and prints your current location upon hitting the button.<br><br>
+Next feature: Integrating Google Maps API to display your location on the map instead of showing Lat/Long<br>
+
 ![image](https://github.com/julia-e-ma/ChickenTinder/assets/30264427/8fa4c64b-2ff7-4ba1-81b9-a4f65a6b9dde)
